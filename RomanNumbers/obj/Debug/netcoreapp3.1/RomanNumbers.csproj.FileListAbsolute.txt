@@ -1,0 +1,13 @@
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.exe
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.deps.json
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.runtimeconfig.json
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.runtimeconfig.dev.json
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.dll
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\bin\Debug\netcoreapp3.1\RomanNumbers.pdb
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.csprojAssemblyReference.cache
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.AssemblyInfoInputs.cache
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.AssemblyInfo.cs
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.csproj.CoreCompileInputs.cache
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.dll
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.pdb
+D:\Kamizelich\7. Liczby rzymskie\RomanNumbers\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.genruntimeconfig.cache
